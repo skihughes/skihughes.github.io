@@ -70,3 +70,9 @@
     margin: 0 auto;
     text-align: left;
   }
+
+  /* this controls how the images in the resume page looks */
+      .left-img{
+      float: left;
+      margin-right: 20px; 
+    }
